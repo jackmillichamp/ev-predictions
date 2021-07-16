@@ -9,4 +9,4 @@ Here is a figure from my analysis:
 
 ![image](https://github.com/jackmillichamp/ev-predictions/blob/main/ev_nums_prediction.png)
 
-This shows my forecast for the number of EVs in the Uk over the next 30 years, alongside predictions from the Climate Change Committee (CCC) and my prediction for the total number of all types of vehicles. By 2050, all vehicles are predicted to be electric.
+This shows my forecast for the number of EVs in the UK over the next 30 years, alongside predictions from the Climate Change Committee (CCC) and my prediction for the total number of all types of vehicles. By 2050, all vehicles are predicted to be electric.
